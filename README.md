@@ -10,6 +10,8 @@ My config files for i3 gaps
 6) Nautilus
 7) Terminator
 8) Flameshot
+9) Nitrogen
+10) Fish
 
 ## Themes
 ### Polybar
@@ -23,6 +25,9 @@ Papirus Breeze from https://www.gnome-look.org/p/1166289
 
 ### Cursor
 Future cursor from https://www.gnome-look.org/p/1457141
+
+### Fish
+Yimmy theme from https://github.com/oh-my-fish/oh-my-fish
 
 
 
